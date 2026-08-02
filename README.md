@@ -86,13 +86,4 @@ Fork the repository, work on your changes, and submit a pull request.
 
 `python` `data-science` `eda` `pandas` `matplotlib` `seaborn` `data-visualization` `project-repository` `data-analysis` `college-projects`
 
----
 
-## 📫 Contact
-
-Made with ❤️ by **Varunkumar2516**  
-For any questions, suggestions, or collaborations:
-
-📬 GitHub: [github.com/Varunkumar2516](https://github.com/Varunkumar2516)
-
----"# Startup-Funding-Analysis" 
