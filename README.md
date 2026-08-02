@@ -63,7 +63,7 @@ Follow these steps to use the projects:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Varunkumar2516/Data_Analysis_Projects.git
+ 
    cd Data_Analysis_Projects
 
 ## 💡 How to Contribute
